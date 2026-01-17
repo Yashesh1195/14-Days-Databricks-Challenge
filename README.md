@@ -44,20 +44,59 @@ The **Databricks 14 Days AI Challenge** is an intensive learning program designe
 ```
 14-Days-Databricks-Challenge/
 │
-├── Orientation/              # Initial setup and platform orientation
-│   ├── 1.png - 9.png        # Setup screenshots and documentation
+├── Orientation/                    # Initial setup and platform orientation
+│   └── 1.png - 9.png              # Setup screenshots and documentation
 │
-├── Day-1/                    # Platform Setup & First Steps
+├── Day-1/                          # Platform Setup & First Steps
 │   ├── DAY 1 – Platform Setup & First Steps.ipynb
 │   ├── Dataset Loading. ipynb
-│   └── Day-1.docx
+│   ├── Day-1.docx
+│   ├── 1.png, 2.png               # Screenshots
+│   └── 14_Days Databricks daily Challenge tasks.png
 │
-├── Day-2/                    # [Coming Soon]
-├── Day-3/                    # [Coming Soon]
-├── ... 
-├── Day-14/                   # [Coming Soon]
+├── Day-2/                          # Apache Spark Fundamentals
+│   └── DAY 2 – Apache Spark Fundamentals.ipynb
 │
-└── README.md                 # This file
+├── Day-3/                          # PySpark Transformations Deep Dive
+│   ├── DAY 3 – PySpark Transformations Deep Dive.ipynb
+│   ├── Day-3.docx
+│   ├── 1.png - 4.png              # Screenshots
+│   └── 14_Days Databricks daily Challenge tasks Day-3.png
+│
+├── Day-4/                          # Delta Lake Introduction
+│   └── DAY 4 – Delta Lake Introduction.ipynb
+│
+├── Day-5/                          # Delta Lake Advanced
+│   └── DAY 5 – Delta Lake Advanced.ipynb
+│
+├── Day-6/                          # Medallion Architecture
+│   ├── DAY 6 – Medallion Architecture.ipynb
+│   ├── Day-6.docx
+│   ├── 1.png - 6.png              # Screenshots
+│   └── 14_Days Databricks daily Challenge tasks Day-6.png
+│
+├── Day-7/                          # Workflows & Job Orchestration
+│   └── DAY 7 – Workflows & Job Orchestration.ipynb
+│
+├── Day-8/                          # Unity Catalog Governance
+│   ├── DAY 8 – Unity Catalog Governance.ipynb
+│   ├── Day-8.docx
+│   ├── 1.png - 4.png              # Screenshots
+│   └── 14_Days Databricks daily Challenge tasks Day-8.png
+│
+├── Day-9/                          # SQL Analytics & Dashboards
+│   ├── DAY 9 – SQL Analytics & Dashboards.ipynb
+│   ├── Day-9.docx
+│   ├── 1.png - 6.png              # Screenshots
+│   └── 14_Days Databricks daily Challenge tasks Day-9.png
+│
+├── Day-10/                         # [Coming Soon]
+├── Day-11/                         # [Coming Soon]
+├── Day-12/                         # [Coming Soon]
+├── Day-13/                         # [Coming Soon]
+├── Day-14/                         # [Coming Soon]
+│
+└── README.md                       # This file
 ```
 
 ---
